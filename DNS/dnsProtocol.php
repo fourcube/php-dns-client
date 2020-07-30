@@ -38,7 +38,7 @@ namespace Metaregistrar\DNS {
         protected $udp;
         /**
          *
-         * @var array $types
+         * @var object $types
          */
         protected $types;
 
